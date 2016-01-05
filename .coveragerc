@@ -1,0 +1,5 @@
+[run]
+source = leonardo_api
+omit =
+    *migrations*
+    leonardo_api/__init__.py
