@@ -9,7 +9,8 @@ default_app_config = 'leonardo_api.Config'
 LEONARDO_APPS = [
     'leonardo_api',
     'rest_framework',
-    'rest_framework.authtoken'
+    'rest_framework.authtoken',
+    'django_graphiql'
 ]
 LEONARDO_PUBLIC = True
 

@@ -7,3 +7,4 @@ REST_FRAMEWORK = {
     ),
     'PAGE_SIZE': 10
 }
+APPEND_SLASH = False
